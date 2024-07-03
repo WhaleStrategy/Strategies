@@ -40,8 +40,11 @@ Welcome to the Strategy repository of Whale Strategy. This repository is dedicat
    - A strategy using RSI and MA for buy and sell signals in 1-hour intervals.
    - [Strategy File](./RSI_plus_MA_Buy_Sell_1_Hour.md)
 
+10. **Grid Script for Long orders**
+    - Implements a grid trading strategy specifically for long orders, utilizing a systematic approach to capture profits from market fluctuations.
+    - [Strategy File](./Grid_Script_for_Long_orders.md)
+
 ## Repository Structure
 
 - `./`: Contains the main `README.md` file.
 - `./strategies/`: Contains markdown files detailing each strategy.
-- `./screenshots/`: Contains backtest result screenshots for each strategy.
